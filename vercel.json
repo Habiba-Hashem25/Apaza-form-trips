@@ -1,1 +1,5 @@
-{  "buildCommand": "pnpm run build",  "installCommand": "pnpm install --no-frozen-lockfile",  "outputDirectory": "dist"} 
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install"
+}
